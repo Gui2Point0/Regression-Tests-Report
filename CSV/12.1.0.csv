@@ -1,0 +1,58 @@
+Build Name,Test Name,OS,Browser,Resolution,Date,Score,Result URL
+12.1.0,ZExample,Windows 10,Google Chrome 96,1366x768,2022-04-01T18:17:26.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75331906/6a37ebe8
+12.1.0,Store Credit Module Test 2,Windows 10,Google Chrome 96,1366x768,2022-04-01T18:10:57.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75331715/86eb7121
+12.1.0,Store Credit Module Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T18:05:03.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75331484/639039f8
+12.1.0,Multiple Ship To Module Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T18:02:48.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75331425/68d72056
+12.1.0,Custom Shipping Methods Restrictions Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T17:58:17.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75331338/eb5b1a0e
+12.1.0,Custom Shipping Methods Orders Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T17:50:13.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75331222/6348c28e
+12.1.0,Custom Shipping Methods Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T17:43:33.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75331114/6f3f2b65
+12.1.0,Category Filters Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T17:29:36.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75330847/c56a39d7
+12.1.0,Categories Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T17:21:33.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75330665/e2440c43
+12.1.0,Categories Display Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T17:15:41.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75330533/62c9879a
+12.1.0,Blog Module Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T17:11:03.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75330421/37675e33
+12.1.0,Wish List Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T17:00:11.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75330115/fa1a98b6
+12.1.0,Waiting List Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:57:35.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75330055/558e11ac
+12.1.0,Titles and Content - WishList Pages Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:52:52.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75329975/eac033a6
+12.1.0,Titles and Content - RMA Pages Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:48:44.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75329881/dc1318f4
+12.1.0,Titles and Content - Rewards Pages Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:44:27.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75329797/30937397
+12.1.0,Titles and Content - Reminders Pages Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:41:49.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75329752/efb3c986
+12.1.0,Titles and Content - Product Comparision Pages Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:39:47.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75329702/22f11cb4
+12.1.0,Titles and Content - Main Pages Part 2 Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:32:21.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75329547/c1fac0d7
+12.1.0,Titles and Content - Main Pages Part 1 Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:25:17.000Z,unset,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75329339/8b10d5eb
+12.1.0,Titles and Content - Gift Registry Pages Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:19:12.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75329156/446a688a
+12.1.0,Titles and Content - GDPR Pages Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:16:20.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75329066/fbfa327d
+12.1.0,Titles and Content - CRM Pages Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:13:17.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75328953/2cbca781
+12.1.0,Titles and Content - Affiliate Pages Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:08:42.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75328832/c79b78b6
+12.1.0,Titles and Content - Account Pages Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T16:01:34.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75328599/c5a2e701
+12.1.0,RMA Module Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T15:57:45.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75328496/ecb86e22
+12.1.0,Reward Points Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T15:47:48.000Z,fail,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75328349/2adee9d2
+12.1.0,Restricting Page Content Access Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T15:45:24.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75328325/a556854a
+12.1.0,Recurring Orders Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T15:31:53.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75328137/8666b092
+12.1.0,Promotion Settings Coupon Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T15:24:52.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75328007/6523ba89
+12.1.0,Promotion Settings Automatic Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T15:18:12.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75327862/10c33910
+12.1.0,Product Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T15:10:23.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75327683/dba570a1
+12.1.0,Product Review Module Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T15:05:52.000Z,fail,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75327583/c0139692
+12.1.0,Product Price Level Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T15:00:58.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75327449/146f0397
+12.1.0,Product Price Editor Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:56:50.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75327367/8128b8b4
+12.1.0,Phone Order Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:53:27.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75327315/933128a4
+12.1.0,OrderSplitPerDistributorCustomProgramming,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:50:50.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75327271/583f2f45
+12.1.0,Order Quote Module Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:47:41.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75327178/5d858d57
+12.1.0,Order Management Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:45:46.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75327132/976d2ea8
+12.1.0,Option Templates Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:40:45.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75327058/d25eb479
+12.1.0,Newsletters Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:39:34.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75327030/c321751f
+12.1.0,Make An Offer Module Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:36:50.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75326980/c4f950e6
+12.1.0,Inventory Control Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:31:48.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75326882/f24a819f
+12.1.0,In Store PickUp Module Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:20:41.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75326667/d1543da1
+12.1.0,Group Certificate Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:16:51.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75326577/3fab9281
+12.1.0,Gift Registry Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:12:03.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75326423/3c41df5c
+12.1.0,Fractional Quantities Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:10:58.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75326393/3679f8c0
+12.1.0,Extra Pages Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:06:03.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75326266/7db59d1c
+12.1.0,Daily Deal Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T14:01:22.000Z,fail,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75326099/430250ec
+12.1.0,Custom File Names Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T13:57:20.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75326009/e2761c54
+12.1.0,CRM Module Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T13:49:22.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75325848/b88abeeb
+12.1.0,Single Page Checkout,Windows 10,Google Chrome 96,1366x768,2022-04-01T13:47:23.000Z,fail,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75325808/dedb0262
+12.1.0,Autoresponders Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T13:45:03.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75325728/e68076e1
+12.1.0,Automation Rules Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T13:35:30.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75325459/5dd553fa
+12.1.0,Affiliate Program Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T13:30:39.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75325296/dd210814
+12.1.0,Administrator Access Test,Windows 10,Google Chrome 96,1366x768,2022-04-01T13:26:04.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75325170/d86f5d69
+12.1.0,AddToCartTest,Windows 10,Google Chrome 96,1366x768,2022-04-01T13:24:28.000Z,pass,https://app.crossbrowsertesting.com/public/ib2a03a200809cd7/selenium/75325119/fe49fbc4
