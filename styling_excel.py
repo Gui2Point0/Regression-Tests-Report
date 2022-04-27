@@ -1,7 +1,9 @@
+from itertools import count
+from numpy import empty
 from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment, PatternFill
 from openpyxl import load_workbook
-from update_spreadsheet import filename
+from sqlalchemy import null, true
 
 #Make titles font bold
 def MakeTextBold(cell,ws):
@@ -13,18 +15,25 @@ def CenterText(cell, ws):
 
 #Pass and Fail background
 def CellBackgroung(ws): 
-    green = '#90EE90' 
-    red = '#FF6961'
+    green = '90EE90' 
+    red = 'FF6961'
+    counter = 1
 
-    for rows in ws.iter_rows(min_row=1, max_row=58, min_col=1, max_col=3):
-        for cell in rows:
-                if cell.row == 'Pass':
-                    cell.fill = PatternFill(start_color=green, end_color=green, fill_type='solid')
-                elif cell.row == 'Fail':
-                    cell.fill = PatternFill(start_color=red, end_color=red, fill_type='solid')
+    while(True):
+        counter += 1
+        rslt_cell = ws['B' + str(counter)]
+    
+        if rslt_cell.value != None:
+            if rslt_cell.value == 'pass':
+                rslt_cell.fill = PatternFill('solid', fgColor=green)
+            elif rslt_cell.value == 'fail':
+                rslt_cell.fill = PatternFill('solid', fgColor=red)
+        else:
+            break
+
 
 #Styling columns info title
-def ColumnsTitle(ws):
+def ColumnTitles(ws):
     CenterText('A1', ws)
     MakeTextBold('A1', ws)
     
@@ -37,14 +46,8 @@ def ColumnsTitle(ws):
 ##########################################################################################################################
 
 #Main
-def SheetStyles():
-    #Loading existing Excel File into work_book Object
-    wb = load_workbook(filename + '.xlsx') 
-    ws = wb.active
-    
-    #Call methods
-    ColumnsTitle(ws)
-    CellBackgroung(ws)
+def SheetStyles(ws):
 
-    #Save file
-    wb.save(filename + '.xlsx')
+    #Call methods
+    ColumnTitles(ws)
+    CellBackgroung(ws)
