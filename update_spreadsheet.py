@@ -1,4 +1,5 @@
 from openpyxl import load_workbook
+import styling_excel
 
 filename = 'RegressionTestReports'
 
@@ -24,6 +25,8 @@ def OpenExcelFile(sheetName, resultList):
     for row in resultList:
         ws.append(row)
 
+    #Apply styles to the rows
+    styling_excel.SheetStyles(ws)
+
     #Saving Excel File
     wb.save(filename + '.xlsx')
-
