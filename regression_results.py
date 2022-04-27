@@ -1,7 +1,6 @@
 import csv
 import clean_csv_functions
 import update_spreadsheet
-import styling_excel
 
 ######################################################################################################
 
@@ -13,7 +12,7 @@ def ReportProcess(sortedAux, sortedCsv, version):
     # testScoreList = []
     # testDurationList = []
 
-    #Next Element
+     #Next Element
     for prevRow in sortedAux:
         if prevRow[0] == version:
             endTime = str(prevRow[5])[11:19] #Splits date and time
@@ -62,12 +61,12 @@ def SetupCsvFiles(reportFileName):
 
 def StartProcess():
     reportFileName = str(input("\nEnter the report file name (e.g. 'report' - without extensions): ")) + '.csv'
-    version = str(input("\nEnter the test build version (e.g. '12.0.7'): "))
+    version = str(input("\nEnter the tested build version: "))
+    sheetName = str(input("\nEnter a name to the Excel sheet: "))
 
     sortedAux, sortedCsv = SetupCsvFiles(reportFileName)
     testResultList = ReportProcess(sortedAux, sortedCsv, version)
-    update_spreadsheet.OpenExcelFile(version, testResultList)
-    styling_excel.SheetStyles()
+    update_spreadsheet.OpenExcelFile(sheetName, testResultList)
 
 ######################################################################################################
         
